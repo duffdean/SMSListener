@@ -113,7 +113,7 @@ public class MainActivity extends AppCompatActivity
 
         Ion.with(getApplicationContext())
                 //.load(source.MSUPER + vehicle.Reg) //Temporarily using
-                .load("https://api.vehicleis.uk/Data/TCCFID?vrm=" + vehicle.Reg)
+                .load(source.VEHICLEIS + vehicle.Reg)
                 .asString()
                 .setCallback(new FutureCallback<String>() {
                     @Override
