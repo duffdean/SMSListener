@@ -112,7 +112,8 @@ public class MainActivity extends AppCompatActivity
         Log.d("DEAN - MSUPER...", "");
 
         Ion.with(getApplicationContext())
-                .load(source.MSUPER + vehicle.Reg)
+                //.load(source.MSUPER + vehicle.Reg) //Temporarily using
+                .load("https://api.vehicleis.uk/Data/TCCFID?vrm=" + vehicle.Reg)
                 .asString()
                 .setCallback(new FutureCallback<String>() {
                     @Override
@@ -121,6 +122,7 @@ public class MainActivity extends AppCompatActivity
 
                         vehicle.Model = rp.GetModelFromReg(result);
                         vehicle.Make = rp.GetMakeFromReg(result);
+                        vehicle.Colour = rp.GetColourFromReg(result);
 
                         getTaxMOTStatus(vehicle, recipient);
                     }

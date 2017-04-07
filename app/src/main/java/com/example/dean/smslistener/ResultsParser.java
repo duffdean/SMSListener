@@ -72,7 +72,7 @@ public class ResultsParser
     {
         try
         {
-            pattern = Pattern.compile("Expires: (.+?)</p>");
+            pattern = Pattern.compile("Expires: (.+?)    </p>");
             matcher = pattern.matcher(html);
             matcher.find();
 //
@@ -88,7 +88,7 @@ public class ResultsParser
     {
         try
         {
-            Pattern pattern = Pattern.compile("Tax due: (.+?)</p>");
+            Pattern pattern = Pattern.compile("Tax due: (.+?)    </p>");
             Matcher matcher = pattern.matcher(html);
             matcher.find();
 //
@@ -118,7 +118,7 @@ public class ResultsParser
         //makeName":"VOLKSWAGEN","
         try
         {
-            pattern = Pattern.compile("modelName\":\"(.+?)\",\"");
+            pattern = Pattern.compile("model\":\"(.+?)\",\"");
             matcher = pattern.matcher(html);
             matcher.find();
 
@@ -152,7 +152,7 @@ public class ResultsParser
                 //makeName":"VOLKSWAGEN","
         try
         {
-            Pattern pattern = Pattern.compile("makeName\":\"(.+?)\",\"");
+            Pattern pattern = Pattern.compile("make\":\"(.+?)\",\"");
             Matcher matcher = pattern.matcher(html);
             matcher.find();
 
@@ -161,6 +161,40 @@ public class ResultsParser
         catch(Exception e)
         {
             vehicleMake = "No Vehicle";
+        }
+
+
+        return vehicleMake;
+    }
+
+    public String GetColourFromReg(String html)
+    {
+        String vehicleMake;
+//        JsonObject f = new JsonObject();
+//        vehicleMake = "";
+//        //JSONObject jsonObject = new JSONObject(html);
+//        JsonArray jsonArray = json.getAsJsonArray("vehicles");
+//
+//        for(int i=0;i<jsonArray.size();i++)
+//        {
+//            JSONObject curr = jsonArray.getAsString("makeName");
+//
+//            vehicleMake = curr.getString("makeName");
+//
+//        }
+        //("<img src=\"([^\"]*)\" (alt=\"[^\"]*\")>")
+        //makeName":"VOLKSWAGEN","
+        try
+        {
+            Pattern pattern = Pattern.compile("colour\":\"(.+?)\",\"");
+            Matcher matcher = pattern.matcher(html);
+            matcher.find();
+
+            vehicleMake = matcher.group(1).toString();
+        }
+        catch(Exception e)
+        {
+            vehicleMake = null;
         }
 
 

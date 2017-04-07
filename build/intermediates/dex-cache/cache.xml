@@ -3,264 +3,147 @@
 
     <item
         is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_1f7dd90a963339d9a29fe943e381ae45a883cd2e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_23cb370ddfc32855f9a79d246b78b38599e25ceb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_6191c76b4cf0bf0629a3c4700dade1014c8865ff\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jar="C:\Users\dean\.android\build-cache\0563095ed92e54795e067592499f9a27322d5564\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_f3f633a260f4291568d898c2201059fe600d0f36\classes.dex" />
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bfd9dc68236368d725a3f392c766da95777361f\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jar="C:\Android Projects\SMSListener\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_fb3658fe8f6aaf7f6a679e19cea2f77214dba774\classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_efbb65991a3679d252b860dfac630aeeffd01725\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_7b90d42f7d9ffca47556ad2ce0741421c7757678\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_aa3fbb2bfedbc5bd5e6cf088e7d80e19383de8fc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e9efcd5576a6a659bd201d5ee79af853e3793c9a">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8b9239a48e24ad723f1376fdc0a99dbdd1377fc5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_92a59be391b9c39afdd18765c8ecbb3f963ae301\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jar="C:\Users\dean\.android\build-cache\fa2bd9d00d6ab6feb750601a98197718bd4c5b6e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_04bb557c15947d192d7f97efbada3f6b1c5657c8\classes.dex" />
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21a2ac423604d05dd6f15e5dd96bab4d8ddda594\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
+        jar="C:\Users\dean\.android\build-cache\7c0973e7a6a8990d54ff72019cd35beb46302d62\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.async-androidasync-2.1.9_75e9b6d9ff082d77e382637861941a88f1a30be2\classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_747532555352ffc41d20433fb3e1b04a6b58ceec\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_50d83bce29b448c7961398389581c259d9d7ad74\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="661a4b54e080313c085a24770d6862f70fef10ef">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d60e30d2fbd9725bc8223051e35b6e0dff71a6e1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.1.9\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.async-androidasync-2.1.9_55ce7889bf026be1c3faafb3156dfe5b2ba552f3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dean\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jar="C:\Users\dean\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_bdfd592bc8e347472e542be954c327adc2be637e\classes.dex" />
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_430e023bcb43394c06940830f1aaa3fc8e3c98c9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_410734e989a561bab05085061d63363a4597514a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b7fc124829ce132c222c9334bb8dbed4ed5148fb">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_62afebb6eeef46ae3050b6ea9618525f8d9ae656\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.ion-ion-2.1.9_fa876a19fe9d67f640e7a5e116b5020cb6cb5e1c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dean\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.1_3665606cbed6b88179b1b79ba674ff7feeebeae4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_4d44655338137f5e52299170bb31722a1d701053\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Dean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_c1bcd6ada1e03918c31fc6c3ec4b889a1c04ae43\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_a4606792472296d8b454df60e6c961702314fd84\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_edacf3feb8ec10725886a4d59fd173435cc88b4c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_3235a917dca872d2dd2c39b93511d50781b93df4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jar="C:\Users\dean\.android\build-cache\53ed26415999372cb72a1f45c086382f516ff640\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_7379d9e583c5b9a60057c103fc09a63ec38817a9\classes.dex" />
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c88f783d28cc42cb1e0603eee5eaff5f7acb3204\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.1.9\jars\classes.jar"
+        jar="C:\Android Projects\SMSListener\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74f9357da6ebbbea063acc6177cef0791d7993fb">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c4189f4d9968d436c0f6314258519b3c75a49126\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpcore-4.4.1_41cb565c43490f5a7c2454d65ffd619f9b783a52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.android\build-cache\5be355af90dc533fc6277bcd72e901da0a8410a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4814e5b1948053243d343e30e04facbac4d627b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.android\build-cache\ac15f9c830eb84a7d8e55ba2becb26108f3ba751\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d37f1a6b58b47173bc2e332dc78c858303f264af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.android\build-cache\ed4bfd05a63aef1798201cd9202d07c22c42a263\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e6c5812ecb9dc51d3b0535a5b781ba97f30f4f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_e801989a6979d8e00eb12bd96b1113fdbae8dc0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.android\build-cache\9b5956d04932892548154699f670da81aa62ec77\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60d0e28fe7ab6da6c03b54cd8ede502284d51a81">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_282d4acb09f77ed9e1aae45aa7c418e0bffd333f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dean\.android\build-cache\95aef7f783351be26cad6f73b9223fa533935aba\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7e54ea31584406fcc68225a8656f384c333ff2ee">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.koushikdutta.ion-ion-2.1.9_1b0a7d5d677de10ec46314273e68b240c6f7b32f\classes.dex" />
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_761fbd779a77d157698a1241597fcbac643fcdc3\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\dean\.android\build-cache\11b7638285e3697bf8a455cffc2a5ebb1827a99c\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="66f33dea45448317573887b14ae65a4ce9da5bc1">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f59408175c20a5dbb24a1c40cea511e583455535\classes.dex" />
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ed2e1c86d74de7cc857d421db80ebeffd6fb516\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\transfers\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jar="C:\Users\dean\.android\build-cache\2efea880f6f3a3710be1f8b8f91787655dca344a\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\transfers\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_b494663463dbc793caf7cd9e49a6eb2663a6a6d5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="F:\SMSListener\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_f6879d491463f399815eb4ed1088ede69d235e16\classes.dex" />
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Android Projects\SMSListener\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8a7a4375cecd5bc5419e7d28225ff6fe4039767e\classes.dex" />
     </item>
 
 </items>

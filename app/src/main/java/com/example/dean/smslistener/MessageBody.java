@@ -20,8 +20,16 @@ public class MessageBody
 
         message.add(vehicle.Reg + " ");
         message.add("✅");
-        message.add("\n");
-        message.add(vehicle.Make + " ");
+
+        if(vehicle.Colour != null)
+        {
+            message.add("\n" + vehicle.Colour + " " + vehicle.Model);
+        }
+        else
+        {
+            message.add("\n" + vehicle.Model);
+        }
+
 
         return message;
     }
@@ -32,11 +40,17 @@ public class MessageBody
 
         message.add(vehicle.Reg + " ");
         message.add("❌");
-        message.add("\n");
-        message.add(vehicle.Model + " ");
-        message.add("\n");
-        message.add("TAX: No Tax");
-        message.add("\nMOT: " + vehicle.MotDate);
+
+        if(vehicle.Colour != null)
+        {
+            message.add("\n" + vehicle.Colour + " " + vehicle.Model +"\nTAX: No Tax\nMOT: " + vehicle.MotDate);
+        }
+        else
+        {
+            message.add("\n" + vehicle.Model + "\nTAX: No Tax\nMOT: " + vehicle.MotDate);
+        }
+
+
 
 
         return message;
@@ -48,11 +62,17 @@ public class MessageBody
 
         message.add(vehicle.Reg + " ");
         message.add("❌");
-        message.add("\n");
-        message.add(vehicle.Model + " ");
-        message.add("\n");
-        message.add("TAX: " + vehicle.TaxDate);
-        message.add("\nMOT: No MOT");
+
+        if(vehicle.Colour != null)
+        {
+            message.add("\n" + vehicle.Colour + " " + vehicle.Model + "\nTAX: " + vehicle.TaxDate + "\nMOT: No MOT");
+        }
+        else
+        {
+            message.add("\n" + vehicle.Model + "\nTAX: " + vehicle.TaxDate + "\nMOT: No MOT");
+        }
+
+
 
         return message;
     }
@@ -62,9 +82,18 @@ public class MessageBody
         message = new ArrayList<String>();
 
         message.add(vehicle.Reg + " ");
-        message.add("⁉️");
-        message.add("\n");
-        message.add(vehicle.Make + " ");
+        message.add("⁉");
+
+        if(vehicle.Colour != null)
+        {
+            message.add("\n" + vehicle.Colour + " " + vehicle.Model);
+        }
+        else
+        {
+            message.add("\n" + vehicle.Make);
+        }
+
+
 
         return message;
     }
