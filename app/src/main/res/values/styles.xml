@@ -7,5 +7,22 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/ic_drive_eta_black_24dp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+    <style name="MenuButton">
+        <item name="fab_colorNormal">#1565C0</item>
+        <item name="fab_colorPressed">#2272CD</item>
+        <item name="fab_colorRipple">#62B2FF</item>
+    </style>
+
+    <style name="MenuButton.Black">
+        <item name="fab_colorNormal">#636060</item>
+        <item name="fab_colorPressed">#9c9b9b</item>
+        <item name="fab_colorRipple">#9c9b9b</item>
+    </style>
 
 </resources>

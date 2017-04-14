@@ -1,6 +1,7 @@
 package com.example.dean.smslistener;
 
 import android.Manifest;
+import android.app.ActionBar;
 import android.content.ContentResolver;
 import android.content.pm.PackageManager;
 import android.database.Cursor;
@@ -26,6 +27,7 @@ import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import com.github.clans.fab.FloatingActionMenu;
 import com.koushikdutta.async.future.FutureCallback;
 import com.koushikdutta.ion.Ion;
 
@@ -63,6 +65,9 @@ public class MainActivity extends AppCompatActivity
         ActivityCompat.requestPermissions(MainActivity.this, new String[]{"android.permission.READ_SMS"}, REQUEST_CODE_ASK_PERMISSIONS);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+        getSupportActionBar().hide();
 
         source = new Source();
         checkButton = (Button) findViewById(R.id.button2);

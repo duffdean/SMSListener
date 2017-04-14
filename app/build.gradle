@@ -24,9 +24,17 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
+    compile 'com.github.clans:fab:1.6.4'
+    compile 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.android.support:design:25.1.1'
     compile 'com.android.support:appcompat-v7:25.1.1'
     compile 'org.apache.httpcomponents:httpcore:4.4.1'
     compile 'org.apache.httpcomponents:httpclient:4.5'
     testCompile 'junit:junit:4.12'
     compile 'com.koushikdutta.ion:ion:2.1.9'
+
+    compile 'com.github.wangjiegulu:AndroidBucket:1.0.4'
+    compile 'com.github.wangjiegulu:AndroidInject:1.0.5'
+    compile 'com.github.wangjiegulu:RapidFloatingActionButton:1.0.3'
+    compile 'com.github.wangjiegulu:ShadowViewHelper:1.0.0'
 }
